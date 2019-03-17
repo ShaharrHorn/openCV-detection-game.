@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\shahar\documents\visual studio 2015\projects\opencvtestt\opencvtestt\source.cpp(124): warning C4101: 'tempArray': unreferenced local variable
+c:\users\shahar\documents\visual studio 2015\projects\opencvtestt\opencvtestt\source.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  opencvtestt.vcxproj -> C:\Users\shahar\documents\visual studio 2015\Projects\opencvtestt\x64\Debug\opencvtestt.exe
